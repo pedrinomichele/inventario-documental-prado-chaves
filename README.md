@@ -1,5 +1,7 @@
 # 📁 Projeto Prado Chaves — Inventário Documental
 
+Projeto desenvolvido para estruturar e viabilizar a recuperação eficiente de documentos físicos armazenados em arquivo externo, eliminando a dependência de conhecimento informal e reduzindo o tempo de localização das informações.
+
 ## 📌 Objetivo
 
 Estruturar um inventário digital de documentos físicos armazenados em caixas, com foco na **localização rápida e eficiente da informação**.
