@@ -140,17 +140,18 @@ Resultado (exemplo):
 
 A análise dos dados permitiu identificar alguns padrões relevantes:
 
-- A maior parte dos documentos está concentrada em determinados tipos documentais, como contratos e correspondências
-- Existem ocorrências de dados classificados como "Não identificado", indicando oportunidades de melhoria na catalogação
-- Alguns assuntos apresentam maior volume documental, sugerindo áreas de maior atividade histórica
+- Observou-se concentração significativa de documentos em determinados tipos documentais, indicando padrão de registro formal predominante de contratos e correspondências;
+- Existem ocorrências de dados classificados como "Não identificado", indicando oportunidades de melhoria na catalogação;
+- Alguns assuntos apresentam maior volume documental, sugerindo áreas de maior atividade histórica;
 - Foi possível identificar variações na padronização de tipos documentais, evidenciando a necessidade de normalização dos dados
 
 Esses insights contribuem para uma melhor organização do acervo e suporte à tomada de decisão.
 
+---
 
 ## 📌 Status do Projeto
 
 Projeto finalizado com inventário estruturado, padronizado e validado para uso operacional.
 
----
+Os resultados demonstram como a estruturação e análise de dados permitem transformar registros dispersos em informações úteis para tomada de decisão e gestão do acervo.
 
