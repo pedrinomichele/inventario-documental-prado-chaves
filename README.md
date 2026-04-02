@@ -31,6 +31,10 @@ PRADO_CHAVES/
 │   ├── Registro de Evolução Projeto de Catalogação Prado Chaves.docx
 │   └── Resumo Executivo.docx
 │
+├── sql/
+│   ├── queries.slq
+│    
+│
 └── README.md
 ```
 
@@ -52,6 +56,8 @@ Auditoria textual (Python)
 Classificação documental (Python)
 ↓
 Reestruturação do inventário
+↓
+Modelagem e análise de dados (SQL)
 ↓
 Inventário final estruturado
 ```
@@ -100,8 +106,46 @@ O objetivo principal é permitir a **identificação rápida da localização do
 * Python (pandas)
 * Excel
 * Inteligência Artificial (apoio à extração e padronização textual)
+* SQLite online (modelagem e análise de dados)
+  
+---
+
+## ⚙️ Após o tratamento dos dados com Python, foi realizada a modelagem e análise utilizando SQLite.
+
+As principais análises incluíram:
+
+* Distribuição de documentos por tipo documental
+* Volume de documentos por assunto
+* Cruzamento entre assunto e tipo documental
+* Identificação de inconsistências nos dados
+
+As consultas SQL utilizadas estão disponíveis em /sql/queries.sql.
 
 ---
+
+### Exemplo de Análise
+
+Consulta: Quantidade de documentos por tipo documental
+
+Resultado (exemplo):
+
+- Contratos: 46
+- Correspondências: 38
+- Documentos legais: 20
+
+---
+
+## 📊 Principais Insights
+
+A análise dos dados permitiu identificar alguns padrões relevantes:
+
+- A maior parte dos documentos está concentrada em determinados tipos documentais, como contratos e correspondências
+- Existem ocorrências de dados classificados como "Não identificado", indicando oportunidades de melhoria na catalogação
+- Alguns assuntos apresentam maior volume documental, sugerindo áreas de maior atividade histórica
+- Foi possível identificar variações na padronização de tipos documentais, evidenciando a necessidade de normalização dos dados
+
+Esses insights contribuem para uma melhor organização do acervo e suporte à tomada de decisão.
+
 
 ## 📌 Status do Projeto
 
